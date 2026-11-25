@@ -1,0 +1,9 @@
+#Ignore generated monitoring reports
+reports/*.txt
+
+#Ignore historical reports
+history/*.txt
+
+#Ignore generated log files
+logs/*.log
+
